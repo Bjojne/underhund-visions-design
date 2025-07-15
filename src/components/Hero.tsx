@@ -26,7 +26,7 @@ const Hero = () => {
               <img 
                 src="/lovable-uploads/cac757d5-8736-40f4-8f1d-961463744f9c.png" 
                 alt="Underhund Media" 
-                className="h-24 w-auto"
+                className="h-24 w-auto filter brightness-0 invert"
               />
             </div>
           </div>
