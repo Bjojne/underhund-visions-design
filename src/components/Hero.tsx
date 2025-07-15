@@ -22,13 +22,12 @@ const Hero = () => {
         <div className="animate-fade-in-up">
           {/* Main Logo/Brand */}
           <div className="mb-8">
-            <div className="inline-flex items-center space-x-4 mb-6">
-              <div className="w-16 h-16 bg-primary rounded-xl flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-3xl">U</span>
-              </div>
-              <h1 className="font-serif text-5xl md:text-7xl font-bold">
-                Underhund <span className="text-primary">Media</span>
-              </h1>
+            <div className="flex justify-center mb-6">
+              <img 
+                src="/lovable-uploads/cac757d5-8736-40f4-8f1d-961463744f9c.png" 
+                alt="Underhund Media" 
+                className="h-24 w-auto"
+              />
             </div>
           </div>
 

@@ -30,11 +30,12 @@ const Header = () => {
       <div className="container mx-auto px-6">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <div className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-xl">U</span>
-            </div>
-            <span className="font-serif text-2xl font-bold">Underhund Media</span>
+          <div className="flex items-center">
+            <img 
+              src="/lovable-uploads/cac757d5-8736-40f4-8f1d-961463744f9c.png" 
+              alt="Underhund Media" 
+              className="h-12 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}
