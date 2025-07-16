@@ -62,7 +62,7 @@ const Portfolio = () => {
     <section id="portfolio" className="py-20 bg-card/30">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 animate-fade-in-up">
-          <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6">
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Vårt <span className="text-primary">Portfolio</span>
           </h2>
           <div className="w-24 h-1 bg-primary mx-auto mb-8"></div>
@@ -122,7 +122,7 @@ const Portfolio = () => {
               </div>
 
               <div className="p-6">
-                <h3 className="font-serif text-xl font-bold mb-2">{item.title}</h3>
+                <h3 className="text-xl font-bold mb-2">{item.title}</h3>
                 <p className="text-muted-foreground text-sm">{item.description}</p>
               </div>
             </div>

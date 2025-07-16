@@ -35,7 +35,7 @@ const Contact = () => {
     <section id="kontakt" className="py-20">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 animate-fade-in-up">
-          <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6">
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Kontakta <span className="text-primary">Oss</span>
           </h2>
           <div className="w-24 h-1 bg-primary mx-auto mb-8"></div>
@@ -47,7 +47,7 @@ const Contact = () => {
         <div className="grid lg:grid-cols-2 gap-16">
           {/* Contact Info */}
           <div className="animate-slide-in-left">
-            <h3 className="font-serif text-3xl font-bold mb-8">Låt oss skapa något fantastiskt tillsammans</h3>
+            <h3 className="text-3xl font-bold mb-8">Låt oss skapa något fantastiskt tillsammans</h3>
             <p className="text-muted-foreground text-lg leading-relaxed mb-8">
               Vi är här för att hjälpa dig förverkliga dina kreativa visioner. Oavsett om du behöver 
               en komplett varumärkesidentitet eller bara vill diskutera en idé, tveka inte att höra av dig.
