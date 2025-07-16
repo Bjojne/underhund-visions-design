@@ -20,7 +20,6 @@ const Hero = () => {
 
       <div className="container mx-auto px-6 text-center z-10">
         <div className="animate-fade-in-up">
-
           {/* Hero Text */}
           <h2 className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
             Vi skapar visuella berättelser som fångar uppmärksamhet och 
