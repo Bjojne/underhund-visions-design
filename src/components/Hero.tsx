@@ -20,16 +20,6 @@ const Hero = () => {
 
       <div className="container mx-auto px-6 text-center z-10">
         <div className="animate-fade-in-up">
-          {/* Main Logo/Brand */}
-          <div className="mb-8">
-            <div className="flex justify-center mb-6">
-              <img 
-                src="/lovable-uploads/cac757d5-8736-40f4-8f1d-961463744f9c.png" 
-                alt="Underhund Media" 
-                className="h-24 w-auto filter brightness-0 invert"
-              />
-            </div>
-          </div>
 
           {/* Hero Text */}
           <h2 className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
