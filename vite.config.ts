@@ -20,6 +20,6 @@ export default defineConfig(({ mode }) => ({
     },
   },
   build: {
-    outDir: "dist", // <-- 💡 Detta behövs!
+    outDir: "dist", // 
   },
 }));
